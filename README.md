@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- ## Get In Touch 📫 -->
+Feel free to reach out for collaborations or just a chat. Checkout my blog/portfolio
+<a href="http://1-ashraful-islam.github.io">
+    <img src="https://1-ashraful-islam.github.io/assets/images/ai_logo_white_small.svg" alt="Website" width="15" /> Website
+</a>.
+
 <!--
 **1-ashraful-islam/1-ashraful-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
